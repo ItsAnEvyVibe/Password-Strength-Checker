@@ -1,3 +1,10 @@
+# -------------------------------------------------------------
+# Project: Password-Strength-Checker
+# Author: Krystel E Albertson
+# Business: Lock it Down Solutions
+# Date: February 2026
+# -------------------------------------------------------------
+
 import re
 
 def check_password(password):
