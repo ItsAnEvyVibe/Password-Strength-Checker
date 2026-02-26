@@ -12,3 +12,7 @@ This project is a security-focused tool developed in Python. It is designed to d
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ItsAnEvyVibe/Password-Strength_Checker.git
+
+   ---
+## 👤 Author
+**Krystel E Albertson** *Founder, Lock it Down Solutions*
