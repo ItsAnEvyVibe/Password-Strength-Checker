@@ -1,4 +1,4 @@
-# Project Name: [Insert Project Name Here]
+# Password-Strength-Checker
 
 ## 🛡️ Project Overview
 This project is a security-focused tool developed in Python. It is designed to demonstrate core concepts in cybersecurity, including network scanning, data integrity, and automation.
